@@ -1,0 +1,6354 @@
+[{
+  "type": "tweet",
+  "id": "1899012683019538505",
+  "url": "https://x.com/_advay_/status/1899012683019538505",
+  "twitterUrl": "https://twitter.com/_advay_/status/1899012683019538505",
+  "text": "back at uiuc for the Lunar Media x ZeroToOne event\n\nmet @michaelyan22,  @avipat_, and a lot of other couple people\n\nspent some time with friends, crushed some ping pong, pool &amp; air hockey before poker at my old apartment\n\ngot back to Chicago at 4am but definitely worth it :) https://t.co/rsOk1SkRg6",
+  "fullText": "back at uiuc for the Lunar Media x ZeroToOne event\n\nmet @michaelyan22,  @avipat_, and a lot of other couple people\n\nspent some time with friends, crushed some ping pong, pool &amp; air hockey before poker at my old apartment\n\ngot back to Chicago at 4am but definitely worth it :) https://t.co/rsOk1SkRg6",
+  "source": "Sprout Social",
+  "retweetCount": 1,
+  "replyCount": 3,
+  "likeCount": 7,
+  "quoteCount": 0,
+  "viewCount": 471,
+  "createdAt": "Mon Mar 10 08:21:20 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1899012683019538505",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/rsOk1SkRg6",
+        "expanded_url": "https://x.com/_advay_/status/1899012683019538505/photo/1",
+        "id_str": "1899012599171133440",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1899012599171133440",
+        "media_url_https": "https://pbs.twimg.com/media/Glql5cWWMAArYRH.jpg",
+        "type": "photo",
+        "url": "https://t.co/rsOk1SkRg6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 4032,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1270,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 0,
+              "y": 604,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 393,
+              "w": 3024,
+              "h": 3447
+            },
+            {
+              "x": 1008,
+              "y": 0,
+              "w": 2016,
+              "h": 4032
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 4032
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1899012599171133440"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/rsOk1SkRg6",
+        "expanded_url": "https://x.com/_advay_/status/1899012683019538505/photo/1",
+        "id_str": "1899012620260106241",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1899012620260106241",
+        "media_url_https": "https://pbs.twimg.com/media/Glql6q6WYAE_mLX.jpg",
+        "type": "photo",
+        "url": "https://t.co/rsOk1SkRg6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 597,
+                "y": 893,
+                "h": 145,
+                "w": 145
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 350,
+                "y": 523,
+                "h": 85,
+                "w": 85
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 198,
+                "y": 296,
+                "h": 48,
+                "w": 48
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1177,
+                "y": 1760,
+                "h": 287,
+                "w": 287
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 4032,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1270,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 0,
+              "y": 604,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 393,
+              "w": 3024,
+              "h": 3447
+            },
+            {
+              "x": 302,
+              "y": 0,
+              "w": 2016,
+              "h": 4032
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 4032
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1899012620260106241"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/rsOk1SkRg6",
+        "expanded_url": "https://x.com/_advay_/status/1899012683019538505/photo/1",
+        "id_str": "1899012641193906176",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1899012641193906176",
+        "media_url_https": "https://pbs.twimg.com/media/Glql745W0AAw3Eu.jpg",
+        "type": "photo",
+        "url": "https://t.co/rsOk1SkRg6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1217,
+                "y": 795,
+                "h": 73,
+                "w": 73
+              },
+              {
+                "x": 45,
+                "y": 449,
+                "h": 289,
+                "w": 289
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 713,
+                "y": 466,
+                "h": 43,
+                "w": 43
+              },
+              {
+                "x": 26,
+                "y": 263,
+                "h": 169,
+                "w": 169
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 404,
+                "y": 264,
+                "h": 24,
+                "w": 24
+              },
+              {
+                "x": 15,
+                "y": 149,
+                "h": 96,
+                "w": 96
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 2397,
+                "y": 1567,
+                "h": 145,
+                "w": 145
+              },
+              {
+                "x": 90,
+                "y": 885,
+                "h": 570,
+                "w": 570
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 4032,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 464,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 3447
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2016,
+              "h": 4032
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 4032
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1899012641193906176"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/rsOk1SkRg6",
+        "expanded_url": "https://x.com/_advay_/status/1899012683019538505/photo/1",
+        "id_str": "1899012662257684480",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1899012662257684480",
+        "media_url_https": "https://pbs.twimg.com/media/Glql9HXWkAABI6O.jpg",
+        "type": "photo",
+        "url": "https://t.co/rsOk1SkRg6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 4032,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1875,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 0,
+              "y": 1008,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 585,
+              "w": 3024,
+              "h": 3447
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2016,
+              "h": 4032
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 4032
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1899012662257684480"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/rsOk1SkRg6",
+        "expanded_url": "https://x.com/_advay_/status/1899012683019538505/photo/1",
+        "id_str": "1899012599171133440",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1899012599171133440",
+        "media_url_https": "https://pbs.twimg.com/media/Glql5cWWMAArYRH.jpg",
+        "type": "photo",
+        "url": "https://t.co/rsOk1SkRg6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 4032,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1270,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 0,
+              "y": 604,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 393,
+              "w": 3024,
+              "h": 3447
+            },
+            {
+              "x": 1008,
+              "y": 0,
+              "w": 2016,
+              "h": 4032
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 4032
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1899012599171133440"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/rsOk1SkRg6",
+        "expanded_url": "https://x.com/_advay_/status/1899012683019538505/photo/1",
+        "id_str": "1899012620260106241",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1899012620260106241",
+        "media_url_https": "https://pbs.twimg.com/media/Glql6q6WYAE_mLX.jpg",
+        "type": "photo",
+        "url": "https://t.co/rsOk1SkRg6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 597,
+                "y": 893,
+                "h": 145,
+                "w": 145
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 350,
+                "y": 523,
+                "h": 85,
+                "w": 85
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 198,
+                "y": 296,
+                "h": 48,
+                "w": 48
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1177,
+                "y": 1760,
+                "h": 287,
+                "w": 287
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 4032,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1270,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 0,
+              "y": 604,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 393,
+              "w": 3024,
+              "h": 3447
+            },
+            {
+              "x": 302,
+              "y": 0,
+              "w": 2016,
+              "h": 4032
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 4032
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1899012620260106241"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/rsOk1SkRg6",
+        "expanded_url": "https://x.com/_advay_/status/1899012683019538505/photo/1",
+        "id_str": "1899012641193906176",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1899012641193906176",
+        "media_url_https": "https://pbs.twimg.com/media/Glql745W0AAw3Eu.jpg",
+        "type": "photo",
+        "url": "https://t.co/rsOk1SkRg6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1217,
+                "y": 795,
+                "h": 73,
+                "w": 73
+              },
+              {
+                "x": 45,
+                "y": 449,
+                "h": 289,
+                "w": 289
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 713,
+                "y": 466,
+                "h": 43,
+                "w": 43
+              },
+              {
+                "x": 26,
+                "y": 263,
+                "h": 169,
+                "w": 169
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 404,
+                "y": 264,
+                "h": 24,
+                "w": 24
+              },
+              {
+                "x": 15,
+                "y": 149,
+                "h": 96,
+                "w": 96
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 2397,
+                "y": 1567,
+                "h": 145,
+                "w": 145
+              },
+              {
+                "x": 90,
+                "y": 885,
+                "h": 570,
+                "w": 570
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 4032,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 464,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 3447
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2016,
+              "h": 4032
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 4032
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1899012641193906176"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/rsOk1SkRg6",
+        "expanded_url": "https://x.com/_advay_/status/1899012683019538505/photo/1",
+        "id_str": "1899012662257684480",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1899012662257684480",
+        "media_url_https": "https://pbs.twimg.com/media/Glql9HXWkAABI6O.jpg",
+        "type": "photo",
+        "url": "https://t.co/rsOk1SkRg6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 4032,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1875,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 0,
+              "y": 1008,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 585,
+              "w": 3024,
+              "h": 3447
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2016,
+              "h": 4032
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 4032
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1899012662257684480"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1294093639698849793",
+        "name": "Michael Yan",
+        "screen_name": "michaelyan22",
+        "indices": [
+          56,
+          69
+        ]
+      },
+      {
+        "id_str": "1450339777383960579",
+        "name": "Avi Patel",
+        "screen_name": "avipat_",
+        "indices": [
+          72,
+          80
+        ]
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Glql5cWWMAArYRH.jpg",
+    "https://pbs.twimg.com/media/Glql6q6WYAE_mLX.jpg",
+    "https://pbs.twimg.com/media/Glql745W0AAw3Eu.jpg",
+    "https://pbs.twimg.com/media/Glql9HXWkAABI6O.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1898437083745714480",
+  "url": "https://x.com/_advay_/status/1898437083745714480",
+  "twitterUrl": "https://twitter.com/_advay_/status/1898437083745714480",
+  "text": "I've moved schools 7 times across 10 countries\n\nHad to give up on forcing friendships \n\nInstead, found my people through competitive rollerblading and pro gaming\n\nUnusual interests connect you with better people than forced networking ever will https://t.co/FNJeZhsqOZ",
+  "fullText": "I've moved schools 7 times across 10 countries\n\nHad to give up on forcing friendships \n\nInstead, found my people through competitive rollerblading and pro gaming\n\nUnusual interests connect you with better people than forced networking ever will https://t.co/FNJeZhsqOZ",
+  "source": "Sprout Social",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 10,
+  "quoteCount": 0,
+  "viewCount": 472,
+  "createdAt": "Sat Mar 08 18:14:06 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1898437083745714480",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/FNJeZhsqOZ",
+        "expanded_url": "https://x.com/_advay_/status/1898437083745714480/photo/1",
+        "id_str": "1898437063533367297",
+        "indices": [
+          245,
+          268
+        ],
+        "media_key": "3_1898437063533367297",
+        "media_url_https": "https://pbs.twimg.com/media/Gliac3BXkAEz-Lb.jpg",
+        "type": "photo",
+        "url": "https://t.co/FNJeZhsqOZ",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1618,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 801,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 454,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1618,
+          "width": 1080,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 545,
+              "w": 1080,
+              "h": 605
+            },
+            {
+              "x": 0,
+              "y": 307,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 232,
+              "w": 1080,
+              "h": 1231
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 809,
+              "h": 1618
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1080,
+              "h": 1618
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1898437063533367297"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/FNJeZhsqOZ",
+        "expanded_url": "https://x.com/_advay_/status/1898437083745714480/photo/1",
+        "id_str": "1898437063533367297",
+        "indices": [
+          245,
+          268
+        ],
+        "media_key": "3_1898437063533367297",
+        "media_url_https": "https://pbs.twimg.com/media/Gliac3BXkAEz-Lb.jpg",
+        "type": "photo",
+        "url": "https://t.co/FNJeZhsqOZ",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1618,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 801,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 454,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1618,
+          "width": 1080,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 545,
+              "w": 1080,
+              "h": 605
+            },
+            {
+              "x": 0,
+              "y": 307,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 232,
+              "w": 1080,
+              "h": 1231
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 809,
+              "h": 1618
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1080,
+              "h": 1618
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1898437063533367297"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Gliac3BXkAEz-Lb.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1898052811180421208",
+  "url": "https://x.com/_advay_/status/1898052811180421208",
+  "twitterUrl": "https://twitter.com/_advay_/status/1898052811180421208",
+  "text": "I was able to buy my dream car in cash at 20\n\nHad just started a company\n\nAnd I wanted to network with wealthy owners to sell to consulting firms easier.\n\nThey see a kid step out, immediately ask \"what do you do?\" \n\nPayed countless dividends\n\nAnyone else have any similar networking tactics?",
+  "fullText": "I was able to buy my dream car in cash at 20\n\nHad just started a company\n\nAnd I wanted to network with wealthy owners to sell to consulting firms easier.\n\nThey see a kid step out, immediately ask \"what do you do?\" \n\nPayed countless dividends\n\nAnyone else have any similar https://t.co/6DVziQrNv9",
+  "source": "Sprout Social",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 15,
+  "quoteCount": 0,
+  "viewCount": 669,
+  "createdAt": "Fri Mar 07 16:47:08 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "1898052811180421208",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/6DVziQrNv9",
+        "expanded_url": "https://x.com/_advay_/status/1898052811180421208/photo/1",
+        "id_str": "1898052790015901696",
+        "indices": [
+          272,
+          295
+        ],
+        "media_key": "3_1898052790015901696",
+        "media_url_https": "https://pbs.twimg.com/media/Glc89MnWQAAkyKC.png",
+        "type": "photo",
+        "url": "https://t.co/6DVziQrNv9",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 358,
+            "w": 866,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 358,
+            "w": 866,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 281,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 358,
+          "width": 866,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 639,
+              "h": 358
+            },
+            {
+              "x": 102,
+              "y": 0,
+              "w": 358,
+              "h": 358
+            },
+            {
+              "x": 124,
+              "y": 0,
+              "w": 314,
+              "h": 358
+            },
+            {
+              "x": 192,
+              "y": 0,
+              "w": 179,
+              "h": 358
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 866,
+              "h": 358
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1898052790015901696"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Glc89MnWQAAkyKC.png"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1897706517933048069",
+  "url": "https://x.com/_advay_/status/1897706517933048069",
+  "twitterUrl": "https://twitter.com/_advay_/status/1897706517933048069",
+  "text": "In fundraising, storytelling is literally everything\n\nNobody can measure the actual value of your pre-seed idea\n\nThey're betting on the narrative\n\n(and you) https://t.co/EUKLyVO7W0",
+  "fullText": "In fundraising, storytelling is literally everything\n\nNobody can measure the actual value of your pre-seed idea\n\nThey're betting on the narrative\n\n(and you) https://t.co/EUKLyVO7W0",
+  "source": "Sprout Social",
+  "retweetCount": 0,
+  "replyCount": 5,
+  "likeCount": 31,
+  "quoteCount": 0,
+  "viewCount": 889,
+  "createdAt": "Thu Mar 06 17:51:06 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "1897706517933048069",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/EUKLyVO7W0",
+        "expanded_url": "https://x.com/_advay_/status/1897706517933048069/photo/1",
+        "id_str": "1897706497515143168",
+        "indices": [
+          157,
+          180
+        ],
+        "media_key": "3_1897706497515143168",
+        "media_url_https": "https://pbs.twimg.com/media/GlYCAUhXQAAdExC.jpg",
+        "type": "photo",
+        "url": "https://t.co/EUKLyVO7W0",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 751,
+                "y": 296,
+                "h": 41,
+                "w": 41
+              },
+              {
+                "x": 573,
+                "y": 305,
+                "h": 45,
+                "w": 45
+              },
+              {
+                "x": 267,
+                "y": 729,
+                "h": 67,
+                "w": 67
+              },
+              {
+                "x": 332,
+                "y": 156,
+                "h": 164,
+                "w": 164
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 720,
+                "y": 284,
+                "h": 39,
+                "w": 39
+              },
+              {
+                "x": 550,
+                "y": 292,
+                "h": 43,
+                "w": 43
+              },
+              {
+                "x": 256,
+                "y": 699,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 318,
+                "y": 149,
+                "h": 157,
+                "w": 157
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 408,
+                "y": 161,
+                "h": 22,
+                "w": 22
+              },
+              {
+                "x": 311,
+                "y": 165,
+                "h": 24,
+                "w": 24
+              },
+              {
+                "x": 145,
+                "y": 396,
+                "h": 36,
+                "w": 36
+              },
+              {
+                "x": 180,
+                "y": 84,
+                "h": 89,
+                "w": 89
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 751,
+                "y": 296,
+                "h": 41,
+                "w": 41
+              },
+              {
+                "x": 573,
+                "y": 305,
+                "h": 45,
+                "w": 45
+              },
+              {
+                "x": 267,
+                "y": 729,
+                "h": 67,
+                "w": 67
+              },
+              {
+                "x": 332,
+                "y": 156,
+                "h": 164,
+                "w": 164
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 831,
+            "w": 1250,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 798,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 452,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 831,
+          "width": 1250,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 55,
+              "w": 1250,
+              "h": 700
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 831,
+              "h": 831
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 729,
+              "h": 831
+            },
+            {
+              "x": 10,
+              "y": 0,
+              "w": 416,
+              "h": 831
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1250,
+              "h": 831
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1897706497515143168"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/EUKLyVO7W0",
+        "expanded_url": "https://x.com/_advay_/status/1897706517933048069/photo/1",
+        "id_str": "1897706497515143168",
+        "indices": [
+          157,
+          180
+        ],
+        "media_key": "3_1897706497515143168",
+        "media_url_https": "https://pbs.twimg.com/media/GlYCAUhXQAAdExC.jpg",
+        "type": "photo",
+        "url": "https://t.co/EUKLyVO7W0",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 751,
+                "y": 296,
+                "h": 41,
+                "w": 41
+              },
+              {
+                "x": 573,
+                "y": 305,
+                "h": 45,
+                "w": 45
+              },
+              {
+                "x": 267,
+                "y": 729,
+                "h": 67,
+                "w": 67
+              },
+              {
+                "x": 332,
+                "y": 156,
+                "h": 164,
+                "w": 164
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 720,
+                "y": 284,
+                "h": 39,
+                "w": 39
+              },
+              {
+                "x": 550,
+                "y": 292,
+                "h": 43,
+                "w": 43
+              },
+              {
+                "x": 256,
+                "y": 699,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 318,
+                "y": 149,
+                "h": 157,
+                "w": 157
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 408,
+                "y": 161,
+                "h": 22,
+                "w": 22
+              },
+              {
+                "x": 311,
+                "y": 165,
+                "h": 24,
+                "w": 24
+              },
+              {
+                "x": 145,
+                "y": 396,
+                "h": 36,
+                "w": 36
+              },
+              {
+                "x": 180,
+                "y": 84,
+                "h": 89,
+                "w": 89
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 751,
+                "y": 296,
+                "h": 41,
+                "w": 41
+              },
+              {
+                "x": 573,
+                "y": 305,
+                "h": 45,
+                "w": 45
+              },
+              {
+                "x": 267,
+                "y": 729,
+                "h": 67,
+                "w": 67
+              },
+              {
+                "x": 332,
+                "y": 156,
+                "h": 164,
+                "w": 164
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 831,
+            "w": 1250,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 798,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 452,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 831,
+          "width": 1250,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 55,
+              "w": 1250,
+              "h": 700
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 831,
+              "h": 831
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 729,
+              "h": 831
+            },
+            {
+              "x": 10,
+              "y": 0,
+              "w": 416,
+              "h": 831
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1250,
+              "h": 831
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1897706497515143168"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GlYCAUhXQAAdExC.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1897439577364947035",
+  "url": "https://x.com/_advay_/status/1897439577364947035",
+  "twitterUrl": "https://twitter.com/_advay_/status/1897439577364947035",
+  "text": "My trading portfolio to 6 figures (while in college)\n\nI started trading at 16\n\nLost 90% of my portfolio on stupid options bets.\n\nMore important than the number though...\n\nUnderstanding how to hedge risks/make calculated decisions\n\nThat all carried into my current venture @pathlit_ai :)\n\nAnyone else have a similar experience with trading + startups?",
+  "fullText": "My trading portfolio to 6 figures (while in college)\n\nI started trading at 16\n\nLost 90% of my portfolio on stupid options bets.\n\nMore important than the number though...\n\nUnderstanding how to hedge risks/make calculated decisions\n\nThat all carried into my current venture https://t.co/11nGGS0Epx",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 9,
+  "quoteCount": 0,
+  "viewCount": 755,
+  "createdAt": "Thu Mar 06 00:10:22 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1897439577364947035",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/11nGGS0Epx",
+        "expanded_url": "https://x.com/_advay_/status/1897439577364947035/photo/1",
+        "id_str": "1897435289557065728",
+        "indices": [
+          272,
+          295
+        ],
+        "media_key": "3_1897435289557065728",
+        "media_url_https": "https://pbs.twimg.com/media/GlULV8JW4AAFDPl.jpg",
+        "type": "photo",
+        "url": "https://t.co/11nGGS0Epx",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 510,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 5712,
+          "width": 4284,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1514,
+              "w": 4284,
+              "h": 2399
+            },
+            {
+              "x": 0,
+              "y": 571,
+              "w": 4284,
+              "h": 4284
+            },
+            {
+              "x": 0,
+              "y": 271,
+              "w": 4284,
+              "h": 4884
+            },
+            {
+              "x": 714,
+              "y": 0,
+              "w": 2856,
+              "h": 5712
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 4284,
+              "h": 5712
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1897435289557065728"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1791139357186781184",
+        "name": "Pathlit",
+        "screen_name": "pathlit_ai",
+        "indices": [
+          272,
+          283
+        ]
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GlULV8JW4AAFDPl.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1897345115456225372",
+  "url": "https://x.com/_advay_/status/1897345115456225372",
+  "twitterUrl": "https://twitter.com/_advay_/status/1897345115456225372",
+  "text": "Your priorities shift daily in early-stage startups\n\nOur 100x developer makes half the meetings but outperforms everyone else\n\nExecution &gt; everything",
+  "fullText": "Your priorities shift daily in early-stage startups\n\nOur 100x developer makes half the meetings but outperforms everyone else\n\nExecution &gt; everything",
+  "source": "Sprout Social",
+  "retweetCount": 1,
+  "replyCount": 3,
+  "likeCount": 17,
+  "quoteCount": 0,
+  "viewCount": 707,
+  "createdAt": "Wed Mar 05 17:55:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1897345115456225372",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1896980969883656428",
+  "url": "https://x.com/_advay_/status/1896980969883656428",
+  "twitterUrl": "https://twitter.com/_advay_/status/1896980969883656428",
+  "text": "I got kicked out of every investor call when I was 19\n\nNot because @pathlit_ai was a bad idea\n\nBut because my terrible Wifi gave me no other choice\n\nCheers to my fellow young founders",
+  "fullText": "I got kicked out of every investor call when I was 19\n\nNot because @pathlit_ai was a bad idea\n\nBut because my terrible Wifi gave me no other choice\n\nCheers to my fellow young founders",
+  "source": "Sprout Social",
+  "retweetCount": 0,
+  "replyCount": 6,
+  "likeCount": 31,
+  "quoteCount": 0,
+  "viewCount": 2233,
+  "createdAt": "Tue Mar 04 17:48:02 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "1896980969883656428",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1791139357186781184",
+        "name": "Pathlit",
+        "screen_name": "pathlit_ai",
+        "indices": [
+          67,
+          78
+        ]
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1896634751379013999",
+  "url": "https://x.com/_advay_/status/1896634751379013999",
+  "twitterUrl": "https://twitter.com/_advay_/status/1896634751379013999",
+  "text": "RT @_advay_: Before my 21st birthday I’ve…\n\n- Raised 1.1M for https://t.co/trT8RacfcC\n- Managed six figures in algorithmic investments\n- Dr…",
+  "fullText": "RT @_advay_: Before my 21st birthday I’ve…\n\n- Raised 1.1M for https://t.co/trT8RacfcC\n- Managed six figures in algorithmic investments\n- Dr…",
+  "source": "Twitter Web App",
+  "retweetCount": 21,
+  "replyCount": 54,
+  "likeCount": 649,
+  "quoteCount": 1,
+  "viewCount": 57739,
+  "createdAt": "Mon Mar 03 18:52:17 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 212,
+  "isReply": false,
+  "conversationId": "1896634751379013999",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "pathlit.com",
+        "expanded_url": "http://pathlit.com",
+        "url": "https://t.co/trT8RacfcC",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1838688070398316546",
+        "name": "Advay Gupta",
+        "screen_name": "_advay_",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "isRetweet": true,
+  "retweet": {
+    "type": "tweet",
+    "id": "1896627909546164664",
+    "text": "Before my 21st birthday I’ve…\n\n- Raised 1.1M for https://t.co/TqHLGCOPce\n- Managed six figures in algorithmic investments\n- Dropped out of college\n- Competed professionally in esports (maintained top 500 global ranking for 6 years)\n- Lived in over 10 different countries\n\nFrom now on, I’ll be documenting all the behind-the-scenes here \n\nStay tuned :)",
+    "source": "Sprout Social",
+    "retweetCount": 21,
+    "replyCount": 54,
+    "likeCount": 649,
+    "quoteCount": 1,
+    "viewCount": 57739,
+    "createdAt": "Mon Mar 03 18:25:05 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 212,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "_advay_",
+      "url": "https://x.com/_advay_",
+      "twitterUrl": "https://twitter.com/_advay_",
+      "id": "1838688070398316546",
+      "name": "Advay Gupta",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+      "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+      "location": "United States of America",
+      "followers": 664,
+      "following": 121,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "pathlit.com",
+              "expanded_url": "http://pathlit.com",
+              "url": "https://t.co/TqHLGCOPce",
+              "indices": [
+                20,
+                43
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 87,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 17,
+      "statusesCount": 98,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1896627909546164664"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/w20Qu98rhY",
+          "expanded_url": "https://x.com/_advay_/status/1896627909546164664/photo/1",
+          "id_str": "1896627888973135872",
+          "indices": [
+            277,
+            300
+          ],
+          "media_key": "3_1896627888973135872",
+          "media_url_https": "https://pbs.twimg.com/media/GlItBClXwAAXBD4.jpg",
+          "type": "photo",
+          "url": "https://t.co/w20Qu98rhY",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 466,
+              "w": 828,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 466,
+              "w": 828,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 466,
+            "width": 828,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 828,
+                "h": 464
+              },
+              {
+                "x": 243,
+                "y": 0,
+                "w": 466,
+                "h": 466
+              },
+              {
+                "x": 272,
+                "y": 0,
+                "w": 409,
+                "h": 466
+              },
+              {
+                "x": 360,
+                "y": 0,
+                "w": 233,
+                "h": 466
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 828,
+                "h": 466
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1896627888973135872"
+            }
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "pathlit.com",
+          "expanded_url": "http://pathlit.com",
+          "url": "https://t.co/TqHLGCOPce",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1896315097145864407",
+  "url": "https://x.com/_advay_/status/1896315097145864407",
+  "twitterUrl": "https://twitter.com/_advay_/status/1896315097145864407",
+  "text": "After landing North Carolina this week, I just…\n\n1. Shared the @pathlit_ai story to the Big Four\n2. And am now preparing for what could be our biggest client meeting yet\n\nWill share some takeaways as the week unfolds :) https://t.co/4kZTF0HrvY",
+  "fullText": "After landing North Carolina this week, I just…\n\n1. Shared the @pathlit_ai story to the Big Four\n2. And am now preparing for what could be our biggest client meeting yet\n\nWill share some takeaways as the week unfolds :) https://t.co/4kZTF0HrvY",
+  "source": "Sprout Social",
+  "retweetCount": 0,
+  "replyCount": 5,
+  "likeCount": 16,
+  "quoteCount": 0,
+  "viewCount": 1771,
+  "createdAt": "Sun Mar 02 21:42:05 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "1896315097145864407",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/4kZTF0HrvY",
+        "expanded_url": "https://x.com/_advay_/status/1896315097145864407/photo/1",
+        "id_str": "1896315076715384832",
+        "indices": [
+          220,
+          243
+        ],
+        "media_key": "3_1896315076715384832",
+        "media_url_https": "https://pbs.twimg.com/media/GlEQg-HWkAA3xai.jpg",
+        "type": "photo",
+        "url": "https://t.co/4kZTF0HrvY",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1271,
+                "y": 753,
+                "h": 137,
+                "w": 137
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 745,
+                "y": 441,
+                "h": 80,
+                "w": 80
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 422,
+                "y": 250,
+                "h": 45,
+                "w": 45
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 2504,
+                "y": 1484,
+                "h": 271,
+                "w": 271
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 900,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 510,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 3024,
+          "width": 4032,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 584,
+              "w": 4032,
+              "h": 2258
+            },
+            {
+              "x": 1008,
+              "y": 0,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 1379,
+              "y": 0,
+              "w": 2653,
+              "h": 3024
+            },
+            {
+              "x": 2167,
+              "y": 0,
+              "w": 1512,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 4032,
+              "h": 3024
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1896315076715384832"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/4kZTF0HrvY",
+        "expanded_url": "https://x.com/_advay_/status/1896315097145864407/photo/1",
+        "id_str": "1896315076715384832",
+        "indices": [
+          220,
+          243
+        ],
+        "media_key": "3_1896315076715384832",
+        "media_url_https": "https://pbs.twimg.com/media/GlEQg-HWkAA3xai.jpg",
+        "type": "photo",
+        "url": "https://t.co/4kZTF0HrvY",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1271,
+                "y": 753,
+                "h": 137,
+                "w": 137
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 745,
+                "y": 441,
+                "h": 80,
+                "w": 80
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 422,
+                "y": 250,
+                "h": 45,
+                "w": 45
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 2504,
+                "y": 1484,
+                "h": 271,
+                "w": 271
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 900,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 510,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 3024,
+          "width": 4032,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 584,
+              "w": 4032,
+              "h": 2258
+            },
+            {
+              "x": 1008,
+              "y": 0,
+              "w": 3024,
+              "h": 3024
+            },
+            {
+              "x": 1379,
+              "y": 0,
+              "w": 2653,
+              "h": 3024
+            },
+            {
+              "x": 2167,
+              "y": 0,
+              "w": 1512,
+              "h": 3024
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 4032,
+              "h": 3024
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1896315076715384832"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1791139357186781184",
+        "name": "Pathlit",
+        "screen_name": "pathlit_ai",
+        "indices": [
+          63,
+          74
+        ]
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GlEQg-HWkAA3xai.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1887986274218148199",
+  "url": "https://x.com/_advay_/status/1887986274218148199",
+  "twitterUrl": "https://twitter.com/_advay_/status/1887986274218148199",
+  "text": "acquisition speed run beginning soon @gmail https://t.co/00GUgwfvqY",
+  "fullText": "acquisition speed run beginning soon @gmail https://t.co/00GUgwfvqY",
+  "source": "Twitter Web App",
+  "retweetCount": 6,
+  "replyCount": 4,
+  "likeCount": 14,
+  "quoteCount": 1,
+  "viewCount": 1551,
+  "createdAt": "Fri Feb 07 22:06:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "1887986274218148199",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/00GUgwfvqY",
+        "expanded_url": "https://x.com/_advay_/status/1887986274218148199/photo/1",
+        "id_str": "1887985577674280960",
+        "indices": [
+          44,
+          67
+        ],
+        "media_key": "3_1887985577674280960",
+        "media_url_https": "https://pbs.twimg.com/media/GjN44UJWEAAVDns.jpg",
+        "type": "photo",
+        "url": "https://t.co/00GUgwfvqY",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 348,
+            "w": 1268,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 329,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 187,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 348,
+          "width": 1268,
+          "focus_rects": [
+            {
+              "x": 227,
+              "y": 0,
+              "w": 621,
+              "h": 348
+            },
+            {
+              "x": 363,
+              "y": 0,
+              "w": 348,
+              "h": 348
+            },
+            {
+              "x": 385,
+              "y": 0,
+              "w": 305,
+              "h": 348
+            },
+            {
+              "x": 450,
+              "y": 0,
+              "w": 174,
+              "h": 348
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1268,
+              "h": 348
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1887985577674280960"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/00GUgwfvqY",
+        "expanded_url": "https://x.com/_advay_/status/1887986274218148199/photo/1",
+        "id_str": "1887985577674280960",
+        "indices": [
+          44,
+          67
+        ],
+        "media_key": "3_1887985577674280960",
+        "media_url_https": "https://pbs.twimg.com/media/GjN44UJWEAAVDns.jpg",
+        "type": "photo",
+        "url": "https://t.co/00GUgwfvqY",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 348,
+            "w": 1268,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 329,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 187,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 348,
+          "width": 1268,
+          "focus_rects": [
+            {
+              "x": 227,
+              "y": 0,
+              "w": 621,
+              "h": 348
+            },
+            {
+              "x": 363,
+              "y": 0,
+              "w": 348,
+              "h": 348
+            },
+            {
+              "x": 385,
+              "y": 0,
+              "w": 305,
+              "h": 348
+            },
+            {
+              "x": 450,
+              "y": 0,
+              "w": 174,
+              "h": 348
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1268,
+              "h": 348
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1887985577674280960"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "38679388",
+        "name": "Gmail",
+        "screen_name": "gmail",
+        "indices": [
+          37,
+          43
+        ]
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GjN44UJWEAAVDns.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1864416777645568342",
+  "url": "https://x.com/_advay_/status/1864416777645568342",
+  "twitterUrl": "https://twitter.com/_advay_/status/1864416777645568342",
+  "text": "AI is transforming enterprises, yet over a third still lack a clear vision to integrate it effectively 🤔\n\nhttps://t.co/aWzzS5ikSu\n\nWith a $14B surge in enterprise AI spending this year, the opportunity is massive...",
+  "fullText": "AI is transforming enterprises, yet over a third still lack a clear vision to integrate it effectively 🤔\n\nhttps://t.co/aWzzS5ikSu\n\nWith a $14B surge in enterprise AI spending this year, the opportunity is massive...",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 6,
+  "quoteCount": 0,
+  "viewCount": 1290,
+  "createdAt": "Wed Dec 04 21:09:33 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1864416777645568342",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {
+    "rest_id": "https://t.co/aWzzS5ikSu",
+    "legacy": {
+      "binding_values": [
+        {
+          "key": "photo_image_full_size_large",
+          "value": {
+            "image_value": {
+              "height": 419,
+              "width": 800,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=800x419"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_star_rating",
+          "value": {
+            "string_value": "4.6683",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "thumbnail_image",
+          "value": {
+            "image_value": {
+              "height": 150,
+              "width": 267,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=280x150"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "Despite some uncertainty, enterprise investments in applications soared eight-fold in 2024, with spending on AI-generated code leading the way.This year, there's been a huge enterprise investment in …",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "flip.it",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_is_free",
+          "value": {
+            "string_value": "true",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "thumbnail_image_large",
+          "value": {
+            "image_value": {
+              "height": 320,
+              "width": 569,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=800x320_1"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image_small",
+          "value": {
+            "image_value": {
+              "height": 202,
+              "width": 386,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=386x202"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image_original",
+          "value": {
+            "image_value": {
+              "height": 675,
+              "width": 1200,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=orig"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "type": "USER",
+            "user_value": {
+              "id_str": "114870386",
+              "path": []
+            }
+          }
+        },
+        {
+          "key": "photo_image_full_size_small",
+          "value": {
+            "image_value": {
+              "height": 202,
+              "width": 386,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=386x202"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image_large",
+          "value": {
+            "image_value": {
+              "height": 419,
+              "width": 800,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=800x419"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "thumbnail_image_small",
+          "value": {
+            "image_value": {
+              "height": 81,
+              "width": 144,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=144x144"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_num_ratings",
+          "value": {
+            "string_value": "320,593",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_amount",
+          "value": {
+            "string_value": "0.0",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "thumbnail_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 675,
+              "width": 1200,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=png&name=2048x2048_2_exp"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_original",
+          "value": {
+            "image_value": {
+              "height": 675,
+              "width": 1200,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=orig"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "flip.it",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "photo_image_full_size",
+          "value": {
+            "image_value": {
+              "height": 314,
+              "width": 600,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=600x314"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "app_name",
+          "value": {
+            "string_value": "Flipboard: The Social Magazine",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "thumbnail_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "rgb": {
+                    "blue": 170,
+                    "green": 58,
+                    "red": 39
+                  },
+                  "percentage": 76.79
+                },
+                {
+                  "rgb": {
+                    "blue": 86,
+                    "green": 10,
+                    "red": 32
+                  },
+                  "percentage": 11.69
+                },
+                {
+                  "rgb": {
+                    "blue": 148,
+                    "green": 27,
+                    "red": 60
+                  },
+                  "percentage": 9.84
+                },
+                {
+                  "rgb": {
+                    "blue": 52,
+                    "green": 3,
+                    "red": 21
+                  },
+                  "percentage": 0.85
+                },
+                {
+                  "rgb": {
+                    "blue": 112,
+                    "green": 5,
+                    "red": 72
+                  },
+                  "percentage": 0.49
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "Enterprises are struggling with what to do with Gen AI, say venture capitalists",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "app_price_currency",
+          "value": {
+            "string_value": "USD",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "summary_photo_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "rgb": {
+                    "blue": 170,
+                    "green": 58,
+                    "red": 39
+                  },
+                  "percentage": 76.79
+                },
+                {
+                  "rgb": {
+                    "blue": 86,
+                    "green": 10,
+                    "red": 32
+                  },
+                  "percentage": 11.69
+                },
+                {
+                  "rgb": {
+                    "blue": 148,
+                    "green": 27,
+                    "red": 60
+                  },
+                  "percentage": 9.84
+                },
+                {
+                  "rgb": {
+                    "blue": 52,
+                    "green": 3,
+                    "red": 21
+                  },
+                  "percentage": 0.85
+                },
+                {
+                  "rgb": {
+                    "blue": 112,
+                    "green": 5,
+                    "red": 72
+                  },
+                  "percentage": 0.49
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "summary_photo_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 675,
+              "width": 1200,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=png&name=2048x2048_2_exp"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "summary_photo_image",
+          "value": {
+            "image_value": {
+              "height": 314,
+              "width": 600,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=600x314"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "photo_image_full_size_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "rgb": {
+                    "blue": 170,
+                    "green": 58,
+                    "red": 39
+                  },
+                  "percentage": 76.79
+                },
+                {
+                  "rgb": {
+                    "blue": 86,
+                    "green": 10,
+                    "red": 32
+                  },
+                  "percentage": 11.69
+                },
+                {
+                  "rgb": {
+                    "blue": 148,
+                    "green": 27,
+                    "red": 60
+                  },
+                  "percentage": 9.84
+                },
+                {
+                  "rgb": {
+                    "blue": 52,
+                    "green": 3,
+                    "red": 21
+                  },
+                  "percentage": 0.85
+                },
+                {
+                  "rgb": {
+                    "blue": 112,
+                    "green": 5,
+                    "red": 72
+                  },
+                  "percentage": 0.49
+                }
+              ]
+            },
+            "type": "IMAGE_COLOR"
+          }
+        },
+        {
+          "key": "photo_image_full_size_x_large",
+          "value": {
+            "image_value": {
+              "height": 675,
+              "width": 1200,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=png&name=2048x2048_2_exp"
+            },
+            "type": "IMAGE"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/aWzzS5ikSu",
+            "type": "STRING"
+          }
+        },
+        {
+          "key": "summary_photo_image_original",
+          "value": {
+            "image_value": {
+              "height": 675,
+              "width": 1200,
+              "url": "https://pbs.twimg.com/card_img/1899173619143704576/vHILxb_8?format=jpg&name=orig"
+            },
+            "type": "IMAGE"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "Swift",
+            "version": "12"
+          }
+        }
+      },
+      "name": "summary_large_image",
+      "url": "https://t.co/aWzzS5ikSu",
+      "user_refs_results": [
+        {
+          "result": {
+            "__typename": "User",
+            "id": "VXNlcjoxMTQ4NzAzODY=",
+            "rest_id": "114870386",
+            "affiliates_highlighted_label": {},
+            "has_graduated_access": true,
+            "is_blue_verified": true,
+            "profile_image_shape": "Circle",
+            "legacy": {
+              "following": false,
+              "can_dm": false,
+              "can_media_tag": true,
+              "created_at": "Tue Feb 16 21:44:57 +0000 2010",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "We’ve suspended our activity here. We hope to connect with you on Mastodon at https://t.co/gSGNx9Sf8j.",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "flipboard.social/@Flipboard",
+                      "expanded_url": "http://flipboard.social/@Flipboard",
+                      "url": "https://t.co/gSGNx9Sf8j",
+                      "indices": [
+                        78,
+                        101
+                      ]
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "bit.ly/3SZSqoQ",
+                      "expanded_url": "https://bit.ly/3SZSqoQ",
+                      "url": "https://t.co/rpMeZnagv6",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 32902,
+              "followers_count": 433432,
+              "friends_count": 9045,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 5835,
+              "location": "",
+              "media_count": 7490,
+              "name": "Flipboard",
+              "normal_followers_count": 433432,
+              "pinned_tweet_ids_str": [
+                "1726999607866208604"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/114870386/1656649684",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1674946532590915584/gIxq3yMi_normal.jpg",
+              "profile_interstitial_type": "",
+              "screen_name": "Flipboard",
+              "statuses_count": 27599,
+              "translator_type": "none",
+              "url": "https://t.co/rpMeZnagv6",
+              "verified": false,
+              "want_retweets": false,
+              "withheld_in_countries": []
+            },
+            "professional": {
+              "rest_id": "1578131769894862892",
+              "professional_type": "Business",
+              "category": []
+            },
+            "tipjar_settings": {}
+          }
+        }
+      ]
+    }
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "flip.it/.NU.uo",
+        "expanded_url": "https://flip.it/.NU.uo",
+        "url": "https://t.co/aWzzS5ikSu",
+        "indices": [
+          106,
+          129
+        ]
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1863730907196039501",
+  "url": "https://x.com/_advay_/status/1863730907196039501",
+  "twitterUrl": "https://twitter.com/_advay_/status/1863730907196039501",
+  "text": "Client: \"can you turn on your video?\" \n\nMe: panics in 20-year-old\n\nAlso me: strategically positions books about entrepreneurship in the background",
+  "fullText": "Client: \"can you turn on your video?\" \n\nMe: panics in 20-year-old\n\nAlso me: strategically positions books about entrepreneurship in the background",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 16,
+  "quoteCount": 0,
+  "viewCount": 730,
+  "createdAt": "Mon Dec 02 23:44:09 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1863730907196039501",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1862612367575540223",
+  "url": "https://x.com/_advay_/status/1862612367575540223",
+  "twitterUrl": "https://twitter.com/_advay_/status/1862612367575540223",
+  "text": "Black Friday is basically the startup life in one day:\n\n1. 50% Off Everything: Just like my equity after fundraising :(\n\n2. Doorbusters: Like launching a feature at 3 a.m., hoping someone (anyone) notices\n\n3. Competing for Attention: Others choose between TVs and toasters; we fight for VC head nods and beta testers\n\n4. Impulse Buys: Our decisions to implement “that cool idea” we didn’t validate",
+  "fullText": "Black Friday is basically the startup life in one day:\n\n1. 50% Off Everything: Just like my equity after fundraising :(\n\n2. Doorbusters: Like launching a feature at 3 a.m., hoping someone (anyone) notices\n\n3. Competing for Attention: Others choose between TVs and toasters; we",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 10,
+  "quoteCount": 0,
+  "viewCount": 749,
+  "createdAt": "Fri Nov 29 21:39:28 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "1862612367575540223",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1889781715515875520",
+  "url": "https://x.com/_advay_/status/1889781715515875520",
+  "twitterUrl": "https://twitter.com/_advay_/status/1889781715515875520",
+  "text": "Email sucks.\n\nAI email assistants are the new crypto. Everyone is making one.\n\nSo… we made one too. 🎉\n\nMeet Bulb – an email client that actually fixes email instead of adding another layer of chaos.\n\nNot just another AI wrapper around Gmail. Bulb rethinks how you use email.\n\nIf you have 10,000+ unread emails and just need to talk to your inbox to fix it all, you need this.👇\nhttps://t.co/Xq64JBgKRR",
+  "fullText": "Email sucks.\n\nAI email assistants are the new crypto. Everyone is making one.\n\nSo… we made one too. 🎉\n\nMeet Bulb – an email client that actually fixes email instead of adding another layer of chaos.\n\nNot just another AI wrapper around Gmail. Bulb rethinks how you use email.\n\nIf",
+  "source": "Twitter Web App",
+  "retweetCount": 4,
+  "replyCount": 2,
+  "likeCount": 15,
+  "quoteCount": 1,
+  "viewCount": 1672,
+  "createdAt": "Wed Feb 12 21:00:46 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "1889781715515875520",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "bulbemail.com",
+        "expanded_url": "http://www.bulbemail.com",
+        "url": "https://t.co/Xq64JBgKRR",
+        "indices": [
+          377,
+          400
+        ]
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1889781856180051969",
+  "url": "https://x.com/_advay_/status/1889781856180051969",
+  "twitterUrl": "https://twitter.com/_advay_/status/1889781856180051969",
+  "text": "@rauchg is this the e0 you were looking for? https://t.co/ruvj14DFGT",
+  "fullText": "@rauchg is this the e0 you were looking for? https://t.co/ruvj14DFGT",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 1178,
+  "createdAt": "Wed Feb 12 21:01:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": true,
+  "inReplyToId": "1889781715515875520",
+  "conversationId": "1889781715515875520",
+  "inReplyToUserId": "1838688070398316546",
+  "inReplyToUsername": "_advay_",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/ruvj14DFGT",
+        "expanded_url": "https://x.com/_advay_/status/1889781856180051969/photo/1",
+        "id_str": "1889781740819914752",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "3_1889781740819914752",
+        "media_url_https": "https://pbs.twimg.com/media/GjnaexSXIAAtHPg.jpg",
+        "type": "photo",
+        "url": "https://t.co/ruvj14DFGT",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 38,
+                "y": 146,
+                "h": 43,
+                "w": 43
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 38,
+                "y": 146,
+                "h": 43,
+                "w": 43
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 21,
+                "y": 82,
+                "h": 24,
+                "w": 24
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 38,
+                "y": 146,
+                "h": 43,
+                "w": 43
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 562,
+            "w": 1198,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 562,
+            "w": 1198,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 319,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 562,
+          "width": 1198,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1004,
+              "h": 562
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 562,
+              "h": 562
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 493,
+              "h": 562
+            },
+            {
+              "x": 9,
+              "y": 0,
+              "w": 281,
+              "h": 562
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1198,
+              "h": 562
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1889781740819914752"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/ruvj14DFGT",
+        "expanded_url": "https://x.com/_advay_/status/1889781856180051969/photo/1",
+        "id_str": "1889781740819914752",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "3_1889781740819914752",
+        "media_url_https": "https://pbs.twimg.com/media/GjnaexSXIAAtHPg.jpg",
+        "type": "photo",
+        "url": "https://t.co/ruvj14DFGT",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 38,
+                "y": 146,
+                "h": 43,
+                "w": 43
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 38,
+                "y": 146,
+                "h": 43,
+                "w": 43
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 21,
+                "y": 82,
+                "h": 24,
+                "w": 24
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 38,
+                "y": 146,
+                "h": 43,
+                "w": 43
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 562,
+            "w": 1198,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 562,
+            "w": 1198,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 319,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 562,
+          "width": 1198,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1004,
+              "h": 562
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 562,
+              "h": 562
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 493,
+              "h": 562
+            },
+            {
+              "x": 9,
+              "y": 0,
+              "w": 281,
+              "h": 562
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1198,
+              "h": 562
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1889781740819914752"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "15540222",
+        "name": "Guillermo Rauch",
+        "screen_name": "rauchg",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GjnaexSXIAAtHPg.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1861880487792259280",
+  "url": "https://x.com/_advay_/status/1861880487792259280",
+  "twitterUrl": "https://twitter.com/_advay_/status/1861880487792259280",
+  "text": "The biggest lessons markets have taught me that aply to startups directly:\n- Stay calm during swings. \n- Adjust strategy, not goals.",
+  "fullText": "The biggest lessons markets have taught me that aply to startups directly:\n- Stay calm during swings. \n- Adjust strategy, not goals. https://t.co/lvWCY8EKAZ",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 566,
+  "createdAt": "Wed Nov 27 21:11:15 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1861880487792259280",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/lvWCY8EKAZ",
+        "expanded_url": "https://x.com/_advay_/status/1861880487792259280/photo/1",
+        "id_str": "1861879992042328065",
+        "indices": [
+          133,
+          156
+        ],
+        "media_key": "3_1861879992042328065",
+        "media_url_https": "https://pbs.twimg.com/media/Gda5_PQXEAELCJ1.png",
+        "type": "photo",
+        "url": "https://t.co/lvWCY8EKAZ",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 698,
+            "w": 778,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 698,
+            "w": 778,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 610,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 698,
+          "width": 778,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 112,
+              "w": 778,
+              "h": 436
+            },
+            {
+              "x": 80,
+              "y": 0,
+              "w": 698,
+              "h": 698
+            },
+            {
+              "x": 166,
+              "y": 0,
+              "w": 612,
+              "h": 698
+            },
+            {
+              "x": 312,
+              "y": 0,
+              "w": 349,
+              "h": 698
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 778,
+              "h": 698
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861879992042328065"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/lvWCY8EKAZ",
+        "expanded_url": "https://x.com/_advay_/status/1861880487792259280/photo/1",
+        "id_str": "1861880215992950784",
+        "indices": [
+          133,
+          156
+        ],
+        "media_key": "3_1861880215992950784",
+        "media_url_https": "https://pbs.twimg.com/media/Gda6MRiWYAARdfT.png",
+        "type": "photo",
+        "url": "https://t.co/lvWCY8EKAZ",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1022,
+            "w": 1980,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 619,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 351,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1022,
+          "width": 1980,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1825,
+              "h": 1022
+            },
+            {
+              "x": 33,
+              "y": 0,
+              "w": 1022,
+              "h": 1022
+            },
+            {
+              "x": 96,
+              "y": 0,
+              "w": 896,
+              "h": 1022
+            },
+            {
+              "x": 289,
+              "y": 0,
+              "w": 511,
+              "h": 1022
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1980,
+              "h": 1022
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861880215992950784"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Gda5_PQXEAELCJ1.png",
+    "https://pbs.twimg.com/media/Gda6MRiWYAARdfT.png"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1859691772093636641",
+  "url": "https://x.com/_advay_/status/1859691772093636641",
+  "twitterUrl": "https://twitter.com/_advay_/status/1859691772093636641",
+  "text": "I love the midwest ❄️ https://t.co/at4PVMi3dr",
+  "fullText": "I love the midwest ❄️ https://t.co/at4PVMi3dr",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 5,
+  "quoteCount": 0,
+  "viewCount": 541,
+  "createdAt": "Thu Nov 21 20:14:04 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1859691772093636641",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/at4PVMi3dr",
+        "expanded_url": "https://x.com/_advay_/status/1859691772093636641/photo/1",
+        "id_str": "1859691517759135744",
+        "indices": [
+          22,
+          45
+        ],
+        "media_key": "3_1859691517759135744",
+        "media_url_https": "https://pbs.twimg.com/media/Gc7zlRPXIAA3iKV.jpg",
+        "type": "photo",
+        "url": "https://t.co/at4PVMi3dr",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1621,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 950,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 538,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2394,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 439,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 630,
+              "y": 0,
+              "w": 2394,
+              "h": 2394
+            },
+            {
+              "x": 924,
+              "y": 0,
+              "w": 2100,
+              "h": 2394
+            },
+            {
+              "x": 1827,
+              "y": 0,
+              "w": 1197,
+              "h": 2394
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 2394
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1859691517759135744"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/at4PVMi3dr",
+        "expanded_url": "https://x.com/_advay_/status/1859691772093636641/photo/1",
+        "id_str": "1859691517759135744",
+        "indices": [
+          22,
+          45
+        ],
+        "media_key": "3_1859691517759135744",
+        "media_url_https": "https://pbs.twimg.com/media/Gc7zlRPXIAA3iKV.jpg",
+        "type": "photo",
+        "url": "https://t.co/at4PVMi3dr",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1621,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 950,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 538,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2394,
+          "width": 3024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 439,
+              "w": 3024,
+              "h": 1693
+            },
+            {
+              "x": 630,
+              "y": 0,
+              "w": 2394,
+              "h": 2394
+            },
+            {
+              "x": 924,
+              "y": 0,
+              "w": 2100,
+              "h": 2394
+            },
+            {
+              "x": 1827,
+              "y": 0,
+              "w": 1197,
+              "h": 2394
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3024,
+              "h": 2394
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1859691517759135744"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Gc7zlRPXIAA3iKV.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1856413055774564779",
+  "url": "https://x.com/_advay_/status/1856413055774564779",
+  "twitterUrl": "https://twitter.com/_advay_/status/1856413055774564779",
+  "text": "is the intersection of voice and touch interfaces the future?",
+  "fullText": "is the intersection of voice and touch interfaces the future?",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 418,
+  "createdAt": "Tue Nov 12 19:05:37 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1856413055774564779",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1849897550326690129",
+  "url": "https://x.com/_advay_/status/1849897550326690129",
+  "twitterUrl": "https://twitter.com/_advay_/status/1849897550326690129",
+  "text": "any tips? https://t.co/S7YMXi0j3r",
+  "fullText": "any tips? https://t.co/S7YMXi0j3r",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 403,
+  "createdAt": "Fri Oct 25 19:35:20 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1849897550326690129",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/S7YMXi0j3r",
+        "expanded_url": "https://x.com/_advay_/status/1849897550326690129/photo/1",
+        "id_str": "1849897394621554688",
+        "indices": [
+          10,
+          33
+        ],
+        "media_key": "3_1849897394621554688",
+        "media_url_https": "https://pbs.twimg.com/media/Gawn4RVWoAAIA-S.jpg",
+        "type": "photo",
+        "url": "https://t.co/S7YMXi0j3r",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 292,
+                "y": 35,
+                "h": 100,
+                "w": 100
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 292,
+                "y": 35,
+                "h": 100,
+                "w": 100
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 193,
+                "y": 23,
+                "h": 66,
+                "w": 66
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 292,
+                "y": 35,
+                "h": 100,
+                "w": 100
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 719,
+            "w": 1024,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 719,
+            "w": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 477,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 719,
+          "width": 1024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1024,
+              "h": 573
+            },
+            {
+              "x": 24,
+              "y": 0,
+              "w": 719,
+              "h": 719
+            },
+            {
+              "x": 68,
+              "y": 0,
+              "w": 631,
+              "h": 719
+            },
+            {
+              "x": 203,
+              "y": 0,
+              "w": 360,
+              "h": 719
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1024,
+              "h": 719
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1849897394621554688"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/S7YMXi0j3r",
+        "expanded_url": "https://x.com/_advay_/status/1849897550326690129/photo/1",
+        "id_str": "1849897394621554688",
+        "indices": [
+          10,
+          33
+        ],
+        "media_key": "3_1849897394621554688",
+        "media_url_https": "https://pbs.twimg.com/media/Gawn4RVWoAAIA-S.jpg",
+        "type": "photo",
+        "url": "https://t.co/S7YMXi0j3r",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 292,
+                "y": 35,
+                "h": 100,
+                "w": 100
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 292,
+                "y": 35,
+                "h": 100,
+                "w": 100
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 193,
+                "y": 23,
+                "h": 66,
+                "w": 66
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 292,
+                "y": 35,
+                "h": 100,
+                "w": 100
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 719,
+            "w": 1024,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 719,
+            "w": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 477,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 719,
+          "width": 1024,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1024,
+              "h": 573
+            },
+            {
+              "x": 24,
+              "y": 0,
+              "w": 719,
+              "h": 719
+            },
+            {
+              "x": 68,
+              "y": 0,
+              "w": 631,
+              "h": 719
+            },
+            {
+              "x": 203,
+              "y": 0,
+              "w": 360,
+              "h": 719
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1024,
+              "h": 719
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1849897394621554688"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Gawn4RVWoAAIA-S.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1849184086406877496",
+  "url": "https://x.com/_advay_/status/1849184086406877496",
+  "twitterUrl": "https://twitter.com/_advay_/status/1849184086406877496",
+  "text": "You don’t need all the answers to start. Stay curious, ask the right questions, and surround yourself with the right people. Growth thrives on adaptability, not perfection.\n\n#Startups #Leadership",
+  "fullText": "You don’t need all the answers to start. Stay curious, ask the right questions, and surround yourself with the right people. Growth thrives on adaptability, not perfection.\n\n#Startups #Leadership",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 344,
+  "createdAt": "Wed Oct 23 20:20:17 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1849184086406877496",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          174,
+          183
+        ],
+        "text": "Startups"
+      },
+      {
+        "indices": [
+          184,
+          195
+        ],
+        "text": "Leadership"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1843492525119803618",
+  "url": "https://x.com/_advay_/status/1843492525119803618",
+  "twitterUrl": "https://twitter.com/_advay_/status/1843492525119803618",
+  "text": "RT @girdley: Google Meet is objectively better than Zoom now.\n\nBy a mile.",
+  "fullText": "RT @girdley: Google Meet is objectively better than Zoom now.\n\nBy a mile.",
+  "source": "Twitter Web App",
+  "retweetCount": 235,
+  "replyCount": 547,
+  "likeCount": 6153,
+  "quoteCount": 112,
+  "viewCount": 687067,
+  "createdAt": "Tue Oct 08 03:24:03 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 264,
+  "isReply": false,
+  "conversationId": "1843492525119803618",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "104281062",
+        "name": "Michael Girdley",
+        "screen_name": "girdley",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "isRetweet": true,
+  "retweet": {
+    "type": "tweet",
+    "id": "1843328343988728217",
+    "text": "Google Meet is objectively better than Zoom now.\n\nBy a mile.",
+    "source": "Twitter Web App",
+    "retweetCount": 235,
+    "replyCount": 547,
+    "likeCount": 6153,
+    "quoteCount": 112,
+    "viewCount": 687067,
+    "createdAt": "Mon Oct 07 16:31:39 +0000 2024",
+    "lang": "en",
+    "bookmarkCount": 264,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "girdley",
+      "url": "https://x.com/girdley",
+      "twitterUrl": "https://twitter.com/girdley",
+      "id": "104281062",
+      "name": "Michael Girdley",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1828063188299984896/b_E_e4xT_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/104281062/1716249796",
+      "description": "I start, own, and oversee businesses. @joinscalepath @hirewithnear @holdcoconf, @alamofireworks, @cyberfortress + more.",
+      "location": "Small Business MBA Newsletter→",
+      "followers": 232493,
+      "following": 2541,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Jan 12 21:39:35 +0000 2010",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "girdley.com/newsletter",
+              "expanded_url": "http://girdley.com/newsletter",
+              "url": "https://t.co/XkRLbsAnPy",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 226220,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 6949,
+      "statusesCount": 87091,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1841934441532297243",
+  "url": "https://x.com/_advay_/status/1841934441532297243",
+  "twitterUrl": "https://twitter.com/_advay_/status/1841934441532297243",
+  "text": "and now I have truly unlocked X 😎😎 https://t.co/JBCYh59D3S",
+  "fullText": "and now I have truly unlocked X 😎😎 https://t.co/JBCYh59D3S",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 301,
+  "createdAt": "Thu Oct 03 20:12:47 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1841934441532297243",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/JBCYh59D3S",
+        "expanded_url": "https://x.com/_advay_/status/1841934441532297243/photo/1",
+        "id_str": "1841934429536571392",
+        "indices": [
+          35,
+          58
+        ],
+        "media_key": "3_1841934429536571392",
+        "media_url_https": "https://pbs.twimg.com/media/GY_dmswW0AAE0KB.jpg",
+        "type": "photo",
+        "url": "https://t.co/JBCYh59D3S",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1622,
+            "w": 1992,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 977,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 554,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1622,
+          "width": 1992,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1992,
+              "h": 1116
+            },
+            {
+              "x": 185,
+              "y": 0,
+              "w": 1622,
+              "h": 1622
+            },
+            {
+              "x": 285,
+              "y": 0,
+              "w": 1423,
+              "h": 1622
+            },
+            {
+              "x": 591,
+              "y": 0,
+              "w": 811,
+              "h": 1622
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1992,
+              "h": 1622
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1841934429536571392"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/JBCYh59D3S",
+        "expanded_url": "https://x.com/_advay_/status/1841934441532297243/photo/1",
+        "id_str": "1841934429536571392",
+        "indices": [
+          35,
+          58
+        ],
+        "media_key": "3_1841934429536571392",
+        "media_url_https": "https://pbs.twimg.com/media/GY_dmswW0AAE0KB.jpg",
+        "type": "photo",
+        "url": "https://t.co/JBCYh59D3S",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1622,
+            "w": 1992,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 977,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 554,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1622,
+          "width": 1992,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1992,
+              "h": 1116
+            },
+            {
+              "x": 185,
+              "y": 0,
+              "w": 1622,
+              "h": 1622
+            },
+            {
+              "x": 285,
+              "y": 0,
+              "w": 1423,
+              "h": 1622
+            },
+            {
+              "x": 591,
+              "y": 0,
+              "w": 811,
+              "h": 1622
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1992,
+              "h": 1622
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1841934429536571392"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GY_dmswW0AAE0KB.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1841201311506641398",
+  "url": "https://x.com/_advay_/status/1841201311506641398",
+  "twitterUrl": "https://twitter.com/_advay_/status/1841201311506641398",
+  "text": "chirp",
+  "fullText": "chirp",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 247,
+  "createdAt": "Tue Oct 01 19:39:35 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1841201311506641398",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1851028370970341553",
+  "url": "https://x.com/_advay_/status/1851028370970341553",
+  "twitterUrl": "https://twitter.com/_advay_/status/1851028370970341553",
+  "text": "Your email assistant should work FOR you, not the other way around. Investor just told @pathlit_ai : \n\"Auto-decline healthcare till Q3 '25, but surface .ai domains\" - Done in 5 seconds.",
+  "fullText": "Your email assistant should work FOR you, not the other way around. Investor just told @pathlit_ai : \n\"Auto-decline healthcare till Q3 '25, but surface .ai domains\" - Done in 5 seconds.",
+  "source": "Twitter Web App",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 5,
+  "quoteCount": 0,
+  "viewCount": 722,
+  "createdAt": "Mon Oct 28 22:28:48 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1851028370970341553",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1791139357186781184",
+        "name": "Pathlit",
+        "screen_name": "pathlit_ai",
+        "indices": [
+          87,
+          98
+        ]
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1851028389500764276",
+  "url": "https://x.com/_advay_/status/1851028389500764276",
+  "twitterUrl": "https://twitter.com/_advay_/status/1851028389500764276",
+  "text": "Bonus trick: Voice commands = email on autopilot 🎯",
+  "fullText": "Bonus trick: Voice commands = email on autopilot 🎯",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 401,
+  "createdAt": "Mon Oct 28 22:28:53 +0000 2024",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1851028370970341553",
+  "conversationId": "1851028370970341553",
+  "inReplyToUserId": "1838688070398316546",
+  "inReplyToUsername": "_advay_",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1848829884820234717",
+  "url": "https://x.com/_advay_/status/1848829884820234717",
+  "twitterUrl": "https://twitter.com/_advay_/status/1848829884820234717",
+  "text": "Letting emotions dictate decisions, whether in trading or startups, never works.",
+  "fullText": "Letting emotions dictate decisions, whether in trading or startups, never works.",
+  "source": "Twitter Web App",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 354,
+  "createdAt": "Tue Oct 22 20:52:48 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1848829884820234717",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1848829907381739957",
+  "url": "https://x.com/_advay_/status/1848829907381739957",
+  "twitterUrl": "https://twitter.com/_advay_/status/1848829907381739957",
+  "text": "One of the toughest lessons I learned was emotional discipline. Letting emotions dictate decisions, whether in trading or startups, never works. Stick to your strategy even when things go wrong—early rejections or churn aren’t true indicators of success. Set clear metrics and a realistic timeline. If it’s working, double down. If not, adjust. For example, if you’re launching on Product Hunt with no following, aim for 10 users, not 1,000. Keep expectations in check and focus on steady progress.",
+  "fullText": "One of the toughest lessons I learned was emotional discipline. Letting emotions dictate decisions, whether in trading or startups, never works. Stick to your strategy even when things go wrong—early rejections or churn aren’t true indicators of success. Set clear metrics and a",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 2,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 338,
+  "createdAt": "Tue Oct 22 20:52:54 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": true,
+  "inReplyToId": "1848829884820234717",
+  "conversationId": "1848829884820234717",
+  "inReplyToUserId": "1838688070398316546",
+  "inReplyToUsername": "_advay_",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_advay_",
+    "url": "https://x.com/_advay_",
+    "twitterUrl": "https://twitter.com/_advay_",
+    "id": "1838688070398316546",
+    "name": "Advay Gupta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1893445091655651328/MRYatvAD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1838688070398316546/1732743855",
+    "description": "left @uiuc to found https://t.co/TqHLGCOPce",
+    "location": "United States of America",
+    "followers": 664,
+    "following": 121,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 24 21:13:47 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pathlit.com",
+            "expanded_url": "http://pathlit.com",
+            "url": "https://t.co/TqHLGCOPce",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 17,
+    "statusesCount": 98,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896627909546164664"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+}]

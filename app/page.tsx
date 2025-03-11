@@ -34,6 +34,16 @@ export default function Home() {
           />
         </div>
 
+        {/* Customer Portal Button */}
+        <div className="absolute top-8 right-8 z-30">
+          <Link
+            href="/dashboard"
+            className="inline-block px-6 py-2 bg-white text-black rounded-full text-lg font-light tracking-wide hover:bg-stone-200 transition-colors duration-300 shadow-lg hover:shadow-xl"
+          >
+            Customer Portal
+          </Link>
+        </div>
+
         {/* Rest of hero section content... */}
         <div className="absolute inset-0 z-0">
           {/* Simple black background */}
@@ -331,7 +341,7 @@ export default function Home() {
             />
 
             <Testimonial
-              quote="Always struggled to find someone that can match my voice for Twitter and LinkedIn. These guys nailed it."
+              quote="Always struggled to find someone that can match my voice for Twitter. These guys nailed it."
               author="Luke Clancy"
               role="Account Executive at Origami Agents"
               image="/luke.jpg"
